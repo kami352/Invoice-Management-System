@@ -1,0 +1,12 @@
+.container_1{
+    display: flex;
+}
+
+.address{
+    margin-left: 700px;
+    margin-top: -300px
+}
+.kal{
+    font-size: 60px;
+    color: pink
+}
